@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-Patrick <span>Moz</span>
+A.Pooja <span>Sree</span>
 
 .nav__link
 Home - About - Services - Projects - Contact
